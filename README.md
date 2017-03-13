@@ -1,2 +1,3 @@
-# Django_chatServer
+# Django_chatServer 3/1/17
 A chat server for my schools local wifi
+Under almost daily-development
